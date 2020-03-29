@@ -2,8 +2,8 @@
 
 > An awesome project.
 
-docsify安装
+##docsify安装
 npm i docsify-cli -g
 
-启动网站
+##启动网站
 docsify serve docs
