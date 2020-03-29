@@ -1,3 +1,3 @@
 git add .
-git commit -m '提交'
+git commit -m '�ύ'
 git push
